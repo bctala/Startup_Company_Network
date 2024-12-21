@@ -39,7 +39,7 @@ The network includes a server room and an admin PC to facilitate seamless commun
   - UTP, Serial, Console  
 
 - **Software**:  
-  - Cisco Packet Tracer v7.1 or later  
+  - Cisco Packet Tracer v8.2 
 
 ---
 
@@ -51,26 +51,10 @@ The network includes a server room and an admin PC to facilitate seamless commun
 
 ---
 
-## Files Included  
-1. `NetworkDesign.pkt`: Cisco Packet Tracer file with the network design and configuration.  
-2. `Presentation.pdf`: Overview of the project objectives, network components, and configurations.  
-3. `Report.pdf`: Detailed documentation of the project setup, IP configurations, and VOIP verification.  
-
----
-
-## Team Members  
-- Tala Almulla  
-- Nada Alharbi  
-- Raneem Ali Alqahtani  
-- Ruba Bakr Aalahmadi  
-- Dana Adel Alsaeed  
-
----
-
 ## How to Use  
 1. Open the `NetworkDesign.pkt` file using Cisco Packet Tracer v7.1 or later.  
-2. Follow the configurations provided in the report to understand the setup.  
-3. Use the VOIP functionality to test communication between departments.  
+2. Use the VOIP functionality to test communication between departments.
+3. Test the connectivity between devices.  
 
 ---
 
